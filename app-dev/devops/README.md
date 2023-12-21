@@ -50,8 +50,8 @@ Reviewed: 20.12.2023
 # Reusable Assets Overview
  
 -[Sample build-spec.yaml and associated dockerfile to use with OCI DevOps](https://github.com/oracle-devrel/technology-engineering/tree/main/app-dev/devops/devops-graalvm-native-image)
-    - These are very configurable and show the installing of specific versions of software (GraalVM and Maven) into the build environment, creating of a native image executable using the installed software, determining version information dynamically and creating a docker image. The example used is the Quarkus getting-started example, but the build command should be the same for all quarkus examples, for Helidon and others you may need to change it slightly. This also assumes that the projects code base is in a sub directory of the gir repo (callsed getting-started in this case) you will need to modify the PROJECT_PATH_TO_BUILD to reflect a different location. To use this in a devops build pipeline place the Dockerfile and build-spec.yml in your projects code root (where the pom.xml file is). Adjust the PROJECT_PATH_TO_BUILD in the build spec and other variables as needed, add the files to your git repo. Change the output stage names for the image if needed. Configure the git repo as the primary GIT repo for the projects build stage and specify the build-spec.yaml file location.
- 
+
+
 # License
  
 Copyright (c) 2023 Oracle and/or its affiliates.
