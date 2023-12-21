@@ -146,24 +146,6 @@ We are an expert team of architects and developers helping customers overcome te
     </tr>
 </table>
 
-# Our Recent Publications
-- [Building a minimal and secure container for Serverless functions with Micronaut and GraalVM](https://medium.com/@comes94/building-a-minimal-and-secure-container-for-serverless-functions-with-micronaut-and-graalvm-4765da26e6a8) [August 2023]
-- [Autoscale Oracle Container Instances](https://docs.oracle.com/en/solutions/autoscale-oracle-container-instances/#GUID-2796F988-7CBA-4049-8E03-352117950CD1) [July 2023]
-- [Scale and optimize Jenkins on Oracle Cloud Infrastructure Container Engine for Kubernetes](https://docs.oracle.com/en/solutions/oci-jenkins-oke/index.html#GUID-23A8EB94-DFFC-4D5C-897F-5F59423447D2)  [July 2023]
-- [Running MongoDB on OKE Smoothly](https://ivan-delic.medium.com/running-mongodb-on-oke-smoothly-f0ff12af3e9) [July 2023]
-- [Argo Workflow on OKE for limitless ML](https://www.youtube.com/watch?v=HOWrwBVuLp0) [July 2023]
-- [Fortify Visual Builder and Oracle Integration With Cloudflare](https://ivan-delic.medium.com/fortify-visual-builder-and-oracle-integration-with-cloudflare-52b35b335dbe) [July 2023]
-- [Monitor Oracle Cloud Infrastructure backups with Functions and autonomous JSON](https://docs.oracle.com/en/solutions/monitor-backup-funcs-auto-json/) [May 2023]
-- [Develop a Web Application that modifies PDF documents](https://docs.oracle.com/en/solutions/dev-webapp-mod-pdf/index.html) [May 2023]
-- [How to change OCI API Gateway Hostname and attach custom SSL certificate](https://medium.com/oracledevs/how-to-change-oci-api-gateway-hostname-and-attach-custom-ssl-certificate-bd513f1d5188) [May 2023]
-- [How to Host Static Website in the OCI Object Storage](https://medium.com/oracledevs/how-to-serve-website-static-files-from-the-oci-object-storage-bd79ca0805c7) [May 2023]
-- [Simplify enterprise-grade operations at scale with Serverless Kubernetes and more](https://www.youtube.com/watch?v=C5950Y0faLU) [April 2023]
-- [Jenkins meets OKE: preemptible extension](https://www.youtube.com/watch?v=P7W7SwYA9tM) [April 2023]
-- [Deploy an autoscaling virus scanner using Oracle Container Engine for Kubernetes](https://docs.oracle.com/en/solutions/deploy-virus-scanner-oke/#GUID-2AE5986A-3B1E-4498-BF09-DEA1365F3446) [April 2023]
-- [Deploy OCI Service Mesh and Microservices on OKE Using Cloud Shell](https://docs.oracle.com/en/solutions/deploy-oci-service-mesh/) [March 2023]
-- [Build an ARM Kubernetes cluster on OCI and deploy an Nginx website](https://docs.oracle.com/en/solutions/build-arm-kubernetes-cluster-oci/)[February 2023]
-- [How to deploy Ingress Nginx using Helm in OCI](https://medium.com/@ivan-delic/deploy-ingress-nginx-using-helm-in-oci-c3ff4d9d5450) [January 2023]
-
 # License
  
 Copyright (c) 2023 Oracle and/or its affiliates.
