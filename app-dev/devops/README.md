@@ -49,7 +49,7 @@ Reviewed: 20.12.2023
  
 # Reusable Assets Overview
  
--[Sample build-spec.yaml and associated dockerfile to use with OCI DevOps](https://github.com/oracle-devrel/technology-engineering/tree/main/app-dev/devops/devops-graalvm-native-image)
+-[Sample build-spec.yaml and associated dockerfile to use with OCI DevOps](https://github.com/oracle-devrel/technology-engineering/tree/main/app-dev/devops/devops-graalvm-native-image/README.md)
 
 
 # License
